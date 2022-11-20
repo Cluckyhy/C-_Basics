@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++菱形继承的问题", "C++菱形继承的问题\C++菱形继承的问题.vcxproj", "{722D5E15-C135-4242-925C-AB36EF693BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722D5E15-C135-4242-925C-AB36EF693BDD}.Debug|x64.ActiveCfg = Debug|x64
+		{722D5E15-C135-4242-925C-AB36EF693BDD}.Debug|x64.Build.0 = Debug|x64
+		{722D5E15-C135-4242-925C-AB36EF693BDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{722D5E15-C135-4242-925C-AB36EF693BDD}.Debug|x86.Build.0 = Debug|Win32
+		{722D5E15-C135-4242-925C-AB36EF693BDD}.Release|x64.ActiveCfg = Release|x64
+		{722D5E15-C135-4242-925C-AB36EF693BDD}.Release|x64.Build.0 = Release|x64
+		{722D5E15-C135-4242-925C-AB36EF693BDD}.Release|x86.ActiveCfg = Release|Win32
+		{722D5E15-C135-4242-925C-AB36EF693BDD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAAC96F2-B78D-4999-A3D0-58F2B6D780C8}
+	EndGlobalSection
+EndGlobal

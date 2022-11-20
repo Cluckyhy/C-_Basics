@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\江西财经大学第一学期\C++学习\代码\作业12_9\作业12_9\test.cpp(47,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\江西财经大学第一学期\C++学习\代码\作业12_9\作业12_9\test.cpp(147,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\江西财经大学第一学期\C++学习\代码\作业12_9\作业12_9\test.cpp(217,22): warning C4305: “参数”: 从“double”到“float”截断
+  作业12_9.vcxproj -> D:\江西财经大学第一学期\C++学习\代码\作业12_9\Debug\作业12_9.exe

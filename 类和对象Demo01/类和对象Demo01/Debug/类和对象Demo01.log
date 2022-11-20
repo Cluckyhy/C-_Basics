@@ -1,0 +1,4 @@
+﻿D:\软件大全\Visual Studio 2019\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(类和对象Demo01.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+D:\江西财经大学第一学期\C++学习\代码\类和对象Demo01\类和对象Demo01\main.cpp(18,24): error C2440: “=”: 无法从“initializer list”转换为“char”
+D:\江西财经大学第一学期\C++学习\代码\类和对象Demo01\类和对象Demo01\main.cpp(18,12): message : 初始值设定项包含过多元素
